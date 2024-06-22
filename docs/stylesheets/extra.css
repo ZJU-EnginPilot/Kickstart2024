@@ -10,6 +10,12 @@
     color: #e15a5a;
     animation: heart 1000ms infinite;
   }
+  .star {
+    color: #FFD700;
+  }
+  .wechat {
+    color: #5fcc72;
+  }
   .bilibili {
     color: #00A5DC;
   }

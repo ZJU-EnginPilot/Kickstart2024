@@ -1,12 +1,12 @@
 site_name: 24级工试学长组资料汇总
 site_author: 24级工试学长组
 site_url: https://georgec6.github.io/EnginExp2024
-site_description: George's knowledge base
+site_description: 24级工试学长组资料汇总网站
 
 repo_name: EnginExp2024
 repo_url: https://github.com/GeorgeC6/EnginExp2024
 
-copyright: Copyright &copy; 2024 24级工试学长组
+copyright: Copyright &copy; 2024 浙江大学工科试验班学长组
 
 theme:
   name: material
@@ -19,7 +19,6 @@ theme:
     repo: fontawesome/brands/github
   custom_dir: overrides
   features:
-    - header.autohide # 向下滚动时自动隐藏header
     - navigation.tracking # 地址栏中的 URL 会随当前位置变化为对应小节的 URL
     - navigation.tabs
     - navigation.top
@@ -112,3 +111,6 @@ nav:
   - 主页: "index.md"
   - 学习: "Study/index.md"
   - 生活: "Life/index.md"
+  - 技能: 
+    - "Skills/index.md"
+    - 电脑基本操作: "Skills/PCop.md"
