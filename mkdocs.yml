@@ -15,7 +15,7 @@ theme:
     - 404.html
   favicon: images/ZJULOGO.png
   icon:
-    logo: material/bookshelf
+    logo: material/book-education-outline
     repo: fontawesome/brands/github
   custom_dir: overrides
   features:
