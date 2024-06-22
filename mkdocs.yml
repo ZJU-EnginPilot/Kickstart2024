@@ -1,0 +1,114 @@
+site_name: 24级工试学长组资料汇总
+site_author: 24级工试学长组
+site_url: https://georgec6.github.io/EnginExp2024
+site_description: George's knowledge base
+
+repo_name: EnginExp2024
+repo_url: https://github.com/GeorgeC6/EnginExp2024
+
+copyright: Copyright &copy; 2024 24级工试学长组
+
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  favicon: images/ZJULOGO.png
+  icon:
+    logo: material/bookshelf
+    repo: fontawesome/brands/github
+  custom_dir: overrides
+  features:
+    - header.autohide # 向下滚动时自动隐藏header
+    - navigation.tracking # 地址栏中的 URL 会随当前位置变化为对应小节的 URL
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes  # 点击小节名字自动显示 index 界面
+    - toc.integrate   # 文档 toc 集成到总目录中
+    - toc.follow  # 右侧目录跟随滚动
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - announce.dismiss
+
+  palette:
+    - media: "(prefers-color-scheme: light)"  # 浅色模式
+      scheme: default
+      primary: orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"   # 深色模式
+      scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra:
+  analytics:
+    provider: google
+    property: G-9WENM1FP2P
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.mark:
+      smart_mark: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - footnotes
+  - md_in_html
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true # 好像能加快网页加载速度？!
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js   # MathJax 3
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/custom.css
+
+nav:
+  - 主页: "index.md"
+  - 学习: "Study/index.md"
+  - 生活: "Life/index.md"
