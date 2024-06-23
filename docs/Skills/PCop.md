@@ -11,13 +11,13 @@
 
 开头的两个一定是你这四年用的最多的快捷键：
 
-=== "Windows"
+=== ":fontawesome-brands-windows: Windows"
 
     复制 (Copy)：++ctrl+c++
 
     粘贴 (Paste)：++ctrl+v++
 
-=== "macOS"
+=== ":fontawesome-brands-apple: macOS"
 
     复制 (Copy)：++command+c++
 
@@ -27,7 +27,7 @@
 
 下面再介绍一些常用快捷键：
 
-=== "Windows"
+=== ":fontawesome-brands-windows: Windows"
 
     | 快捷键 | 功能 |
     | :---: | :---: |
@@ -39,7 +39,7 @@
     | ++ctrl+f++ | 查找 (Find) |
     | ++ctrl+n++ | 新建 (New) |
 
-=== "macOS"
+=== ":fontawesome-brands-apple: macOS"
 
     | 快捷键 | 功能 |
     | :---: | :---: |
