@@ -11,7 +11,7 @@ copyright: Copyright &copy; 2024 浙江大学工科试验班学长组
 theme:
   name: material
   language: zh
-  favicon: images/PowerZJU.png
+  favicon: images/LOGO.png
   icon:
     logo: material/book-education-outline
     repo: fontawesome/brands/github
