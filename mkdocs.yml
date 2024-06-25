@@ -11,9 +11,7 @@ copyright: Copyright &copy; 2024 浙江大学工科试验班学长组
 theme:
   name: material
   language: zh
-  static_templates:
-    - 404.html
-  favicon: images/ZJULOGO.png
+  favicon: images/PowerZJU.png
   icon:
     logo: material/book-education-outline
     repo: fontawesome/brands/github
@@ -98,6 +96,8 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true # 好像能加快网页加载速度？!
+  - statistics:
+      page_check_metadata: comment
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -114,3 +114,4 @@ nav:
   - 技能: 
     - "Skills/index.md"
     - 电脑基本操作: "Skills/PCop.md"
+  - 拓展阅读: "More/index.md"

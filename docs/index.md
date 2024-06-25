@@ -1,8 +1,11 @@
 ---
 comments: false
+statistics: True
 ---
 
 # **Hi~ o(*￣▽￣*)ブ**
+
+本站共有 {{ pages }} 个页面，{{ words }} 个字，{{ codes }} 行代码。
 
 2024 级工科试验班的同学们大家好！
 
