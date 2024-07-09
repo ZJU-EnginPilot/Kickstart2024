@@ -1,6 +1,6 @@
 site_name: 24级工试学长组资料汇总
 site_author: 24级工试学长组
-site_url: https://ZJU-EnginPilot.github.io/Kickstart2024
+site_url: https://zju-enginpilot.github.io/Kickstart2024/
 site_description: 24级工试学长组资料汇总网站
 
 repo_name: EnginExp2024
@@ -40,15 +40,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"  # 浅色模式
       scheme: default
-      primary: orange
-      accent: amber
+      primary: custom
+      accent: light blue
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"   # 深色模式
       scheme: slate
-      primary: green
-      accent: lime
+      primary: custom
+      accent: light blue
       toggle:
         icon: material/weather-night
         name: Switch to light mode
