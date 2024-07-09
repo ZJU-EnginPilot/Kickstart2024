@@ -1,6 +1,8 @@
 ---
 comments: false
 statistics: True
+hide:
+  - footer
 ---
 
 # **Hi~ o(*￣▽￣*)ブ**

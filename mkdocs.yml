@@ -3,7 +3,7 @@ site_author: 24级工试学长组
 site_url: https://zju-enginpilot.github.io/Kickstart2024/
 site_description: 24级工试学长组资料汇总网站
 
-repo_name: EnginExp2024
+repo_name: Kickstart2024
 repo_url: https://github.com/ZJU-EnginPilot/Kickstart2024
 edit_uri: tree/main/docs/
 
@@ -25,6 +25,8 @@ theme:
     - navigation.top
     - navigation.indexes  # 点击小节名字自动显示 index 界面
     - navigation.footer # 底部导航栏
+    - navigation.instant # 站内瞬移
+    - navigation.instant.progress
     - toc.integrate   # 单栏 toc
     - toc.follow  # 右侧目录跟随滚动
     - search.highlight
@@ -104,7 +106,8 @@ plugins:
       enable_creation_date: true
       type: iso_date
   - git-committers:
-      repository: GeorgeC6/EnginExp2024
+      enabled: !ENV [CI, false]
+      repository: ZJU-EnginPilot/Kickstart2024
       branch: main
   - minify:
       minify_html: true # 加快网页加载速度
