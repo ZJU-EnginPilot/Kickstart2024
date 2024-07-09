@@ -21,7 +21,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.indexes  # 点击小节名字自动显示 index 界面
-    - toc.integrate   # 文档 toc 集成到总目录中
+    - navigation.footer # 底部导航栏
+    - toc.integrate   # 单栏 toc
     - toc.follow  # 右侧目录跟随滚动
     - search.highlight
     - search.share
@@ -29,6 +30,8 @@ theme:
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
+    - content.action.edit # git edit page
+    - content.action.view # git view source
     - announce.dismiss
 
   palette:
@@ -94,8 +97,14 @@ markdown_extensions:
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+  - git-committers:
+      repository: GeorgeC6/EnginExp2024
+      branch: main
   - minify:
-      minify_html: true # 好像能加快网页加载速度？!
+      minify_html: true # 加快网页加载速度
   - statistics:
       page_check_metadata: comment
 
