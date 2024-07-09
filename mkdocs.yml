@@ -102,7 +102,7 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - git-revision-date-localized:
       enable_creation_date: true
-      type: datetime
+      type: iso_date
   - git-committers:
       repository: GeorgeC6/EnginExp2024
       branch: main
