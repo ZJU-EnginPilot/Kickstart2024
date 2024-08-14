@@ -124,10 +124,10 @@ extra_css:
 
 nav:
   - 主页: "index.md"
-  - 入学:
+  - 入学 !:
     - "Enroll/index.md"
-    - 准备: "Enroll/Preparation.md"
-    - 报道: "Enroll/Orientation.md"
+    - 入学前准备: "Enroll/Preparation.md"
+    - 报到: "Enroll/Orientation.md"
   - 学习:
     - "Study/index.md"
     - 如何毕业: "Study/How2Grad.md"
