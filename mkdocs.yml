@@ -75,7 +75,7 @@ extra:
           name: 有待改进！
           data: 0
           note: >- 
-            感谢你的反馈! 为这个网站项目做<a href="..." target="_blank" rel="noopener">贡献</a>，
+            感谢你的反馈! 为这个网站项目做<a href="https://zju-enginpilot.github.io/Kickstart2024/contribution/" target="_blank" rel="noopener">贡献</a>，
             一起让它变得更好！🚀
 
 markdown_extensions:
