@@ -14,7 +14,7 @@ author:
 
 几乎所有的浙大相关资源和服务都需要使用浙大统一身份认证账号登录，请妥善保管好密码。
 
-![zjuam](zjuam.png)
+![zjuam](zjuam.jpg)
 
 <center><font size=3>**图1.** 浙大统一身份认证界面</font></center>
 
@@ -31,7 +31,7 @@ author:
     有兴趣的同学可参阅 :simple-baidu: [百度百科词条](https://baike.baidu.com/item/大型开放式网络课程){target=_blank}
     或 :fontawesome-brands-wikipedia-w: [Wikipedia 词条](https://en.wikipedia.org/wiki/Massive_open_online_course){target=_blank}.
 
-    “**{==学在浙大==}**”和“**{==中国大学 MOOC==}**”是今后学习中最常用到的两个线上平台，详情请移步:[]
+    “**{==学在浙大==}**”和“**{==中国大学 MOOC==}**”是今后学习中最常用到的两个线上平台，详情请移步：[线上学习平台]
 
 在“学在浙大”平台上完成新生慕课，完成并总评达到 90 及以上就可以获得 0.5 [第二课堂] 记点（也就是学分）。
 
@@ -57,8 +57,10 @@ author:
 
 [^1]: 严格意义上，新生慕课和今后一些课程（如微积分，线性代数等）的慕课其实都是 SPOC (Small Private Online Course)，即只有浙大学生才能参与的小型私有在线课程。但是大家都没管这么多，就叫慕课了。
 
-[^2]: 细心的同学可能会问：为什么要自己租空调？可以参考这个校内论坛（[98](https://www.cc98.org/){target=_blank}, 需登录注册+校园网访问）帖子：
-![cc98](../images/LOGO/CC98_LOGO.png) [我们的空调和热水器为什么需要租](https://www.cc98.org/topic/5665713){target=_blank}<br />
+[^2]: 细心的同学可能会问：为什么要自己租空调？可以参考这个校内论坛（[98](https://www.cc98.org/){title="cc98.org";target=_blank}, 需登录注册 + [校园网]访问）帖子：
+![cc98](../images/LOGO/CC98_LOGO.png) [我们的空调和热水器为什么需要租](https://www.cc98.org/topic/5665713){target=_blank}<br>
 如果有同学有自己购置空调的意愿，可以参考这个帖子：![cc98](../images/LOGO/CC98_LOGO.png) [寝室空调自行购买和安装指南](https://www.cc98.org/topic/5955591){target=_blank}
 
-[第二课堂]: ../Skills/PCop.md
+[第二课堂]: example.com "🚧 施工中..."
+[线上学习平台]: example.com "🚧 施工中..."
+[校园网]: ../Life/ZJUNet.md "🚧 施工中..."
