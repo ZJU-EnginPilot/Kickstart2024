@@ -3,6 +3,7 @@ comments: false
 statistics: True
 hide:
   - footer
+  - feedback
 ---
 
 # **Hi~ o(*￣▽￣*)ブ**
@@ -20,7 +21,7 @@ hide:
     见👉 [安全] 👈
 
 !!! info inline end "Tips"
-    网站内容正在更新中，还请多多关注/补充贡献！:octicons-heart-fill-24:{ .heart }
+    网站内容正在更新中，还请[多多关注](https://github.com/ZJU-EnginPilot/Kickstart2024){title="去 GitHub 点个 ⭐️star 吧！"; target=_blank}/[补充贡献]！:octicons-heart-fill-24:{ .heart }
     
     本站共有 {{ pages }} 个页面，{{ words }} 个字。
 
@@ -33,3 +34,4 @@ hide:
 [有问题问谁？]: contact.md
 [入学！]: Enroll/index.md
 [安全]: Life/Safety.md
+[补充贡献]: contribution.md

@@ -1,3 +1,8 @@
+---
+hide:
+    - feedback
+---
+
 # 入学！
 
 !!! success ""

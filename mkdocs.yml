@@ -63,6 +63,20 @@ extra:
   analytics:
     provider: google
     property: G-9WENM1FP2P
+    feedback:
+      title: 这个页面对你有帮助吗？
+      ratings:
+        - icon: material/thumb-up-outline
+          name: 帮助很大！
+          data: 1
+          note: >-
+            感谢你的反馈！😘
+        - icon: material/thumb-down-outline
+          name: 有待改进！
+          data: 0
+          note: >- 
+            感谢你的反馈! 为这个网站项目做<a href="..." target="_blank" rel="noopener">贡献</a>，
+            一起让它变得更好！🚀
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -126,6 +140,7 @@ nav:
   - 主页: 
     - "index.md"
     - 有问题问谁？: "contact.md"
+    - 如何贡献: "contribution.md"
     - 友情链接: "links.md"
   - 入学 !:
     - "Enroll/index.md"
