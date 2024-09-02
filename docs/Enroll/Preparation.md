@@ -58,10 +58,11 @@ author:
 
 [^1]: 严格意义上，新生慕课和今后一些课程（如微积分，线性代数等）的慕课其实都是 SPOC (Small Private Online Course)，即只有浙大学生才能参与的小型私有在线课程。但是大家都没管这么多，就叫慕课了。
 
-[^2]: 细心的同学可能会问：为什么要自己租空调？可以参考这个校内论坛（[98](https://www.cc98.org/){title="cc98.org";target=_blank}, 需登录注册 + [校园网]访问）帖子：
+[^2]: 细心的同学可能会问：为什么要自己租空调？可以参考这个校内论坛（[CC98], 需登录注册 + [校园网]访问）帖子：
 ![cc98](../images/LOGO/CC98_LOGO.png) [我们的空调和热水器为什么需要租](https://www.cc98.org/topic/5665713){target=_blank}<br>
 如果有同学有自己购置空调的意愿，可以参考这个帖子：![cc98](../images/LOGO/CC98_LOGO.png) [寝室空调自行购买和安装指南](https://www.cc98.org/topic/5955591){target=_blank}
 
+[CC98]: ../Online/Forum.md#cc98 "点击前往对 CC98 的介绍页面~"
 [第二课堂]: example.com "🚧 施工中..."
-[线上学习平台]: example.com "🚧 施工中..."
-[校园网]: ../Life/ZJUNet.md
+[线上学习平台]: ../Online/Learning.md "点击前往对线上学习平台的介绍页面~"
+[校园网]: ../Online/ZJUNet.md "点击前往对校园网的介绍页面~"

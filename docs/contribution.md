@@ -6,13 +6,13 @@
 
 ## 我熟悉 Git 和 GitHub！![](images/tieba/happy.png)
 
-### GitHub 上的操作指南：
+### GitHub 上的操作指南
 
 1. 到[项目网址](https://github.com/ZJU-EnginPilot/Kickstart2024){target=_blank}，点击右上角的 `Fork` 按钮，将项目 Fork 到你的 repo 中。
 2. 在你的 repo 中进行修改，修改完成后提交并发起 Pull Request (PR)。
 3. 等待管理员审核你的 PR。
 
-### 本地编辑操作指南：
+### 本地编辑操作指南
 
 你可以在 GitHub 线上编辑器中直接编辑，也可以将项目 clone 到本地进行编辑。
 

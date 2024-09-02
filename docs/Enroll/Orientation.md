@@ -8,10 +8,10 @@ author:
 
 ## 重要地点
 
-![map](map.png)
+![map](map.jpg)
 <center><font size=3>**图1.** 蓝田周边</font></center>
 
-![map2](map2.png)
+![map2](map2.jpg)
 <center><font size=3>**图2.** 浙大周边</font></center>
 
 ## 路线指引

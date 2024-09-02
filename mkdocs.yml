@@ -46,14 +46,14 @@ theme:
       accent: light blue
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"   # 深色模式
       scheme: slate
       primary: custom
       accent: light blue
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: 切换到浅色模式
 
   font:
     text: Roboto
@@ -154,8 +154,11 @@ nav:
     - 考核: "MT/Assessment.md"
   - 学习:
     - "Study/index.md"
-    - 如何毕业: "Study/How2Grad.md"
-    - 毕业之外: "Study/BeyondGrad.md"
+    - 学业基本制度: "Study/Concepts.md"
+    - 选课: "Study/CourseSelection.md"
+    - 工试课程经验: "Study/Courses.md"
+    - 工试专业简介: "Study/Majors.md"
+    - 专业选择: "Study/MajorSelection.md"
   - 生活: 
     - "Life/index.md"
     - 安全: "Life/Safety.md"
@@ -163,9 +166,19 @@ nav:
     - 食: "Life/Food.md"
     - 住: "Life/Accommodation.md"
     - 行: "Life/Transportation.md"
-    - 游: "Life/Entertainment.md"
-    - 校园网: "Life/ZJUNet.md"
+    # - 游: "Life/Entertainment.md"
+    - 重要地点: "Life/Places.md"
+    - 活动: "Life/Activities.md"
     - 社团: "Life/Clubs.md"
+  - 线上平台:
+    - "Online/index.md"
+    - 校园网: "Online/ZJUNet.md"
+    - 浙大钉: "Online/ZJUDing.md"
+    - 软件（APP）: "Online/APP.md"
+    - 微信公众号: "Online/WeChat.md"
+    - 学习平台: "Online/Learning.md"
+    - 论坛: "Online/Forum.md"
+    - 其他: "Online/Others.md"
   # - 技能: 
   #   - "Skills/index.md"
   #   - 电脑基本操作: "Skills/PCop.md"
