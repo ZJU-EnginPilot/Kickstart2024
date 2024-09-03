@@ -60,7 +60,8 @@ author:
 
 [^2]: 细心的同学可能会问：为什么要自己租空调？可以参考这个校内论坛（[CC98], 需登录注册 + [校园网]访问）帖子：
 ![cc98](../images/LOGO/CC98_LOGO.png) [我们的空调和热水器为什么需要租](https://www.cc98.org/topic/5665713){target=_blank}<br>
-如果有同学有自己购置空调的意愿，可以参考这个帖子：![cc98](../images/LOGO/CC98_LOGO.png) [寝室空调自行购买和安装指南](https://www.cc98.org/topic/5955591){target=_blank}
+如果有同学有自己购置空调的意愿，可以参考这个帖子：![cc98](../images/LOGO/CC98_LOGO.png) [寝室空调自行购买和安装指南](https://www.cc98.org/topic/5955591){target=_blank}<br>
+但是蓝田的空调质量算好的，二级能效，上述吐槽主要针对尼普顿公司安装的老旧空调。
 
 [CC98]: ../Online/Forum.md#cc98 "点击前往对 CC98 的介绍页面~"
 [第二课堂]: example.com "🚧 施工中..."

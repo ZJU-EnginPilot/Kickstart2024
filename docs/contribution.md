@@ -8,7 +8,7 @@
 
 ### GitHub 上的操作指南
 
-1. 到[项目网址](https://github.com/ZJU-EnginPilot/Kickstart2024){target=_blank}，点击右上角的 `Fork` 按钮，将项目 Fork 到你的 repo 中。
+1. 到 [GitHub 项目网址](https://github.com/ZJU-EnginPilot/Kickstart2024){target=_blank}，点击右上角的 `Fork` 按钮，将项目 Fork 到你的 repo 中。
 2. 在你的 repo 中进行修改，修改完成后提交并发起 Pull Request (PR)。
 3. 等待管理员审核你的 PR。
 
