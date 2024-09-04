@@ -110,7 +110,6 @@ markdown_extensions:
   - md_in_html
   - attr_list
   - toc:
-      permalink: true
       toc_depth: 4
 
 plugins:
@@ -155,6 +154,7 @@ nav:
   - 学习:
     - "Study/index.md"
     - 学业基本制度: "Study/Concepts.md"
+    - 体育: "Study/PE.md"
     - 选课: "Study/CourseSelection.md"
     - 工试课程经验: "Study/Courses.md"
     - 工试专业简介: "Study/Majors.md"
