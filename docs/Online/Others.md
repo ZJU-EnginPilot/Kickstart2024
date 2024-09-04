@@ -53,6 +53,6 @@
 
 ### NexusHD
 
-浙大内部的 PT 站，可以下载很多资源，比如影片、音乐、软件等等。
+浙大内部的 PT 站（需内网访问），可以下载很多资源，比如影片、音乐、软件等等。
 
 - 网址：![](../images/LOGO/favicon.ico) [https://nexushd.org/](https://nexushd.org/){target=_blank}
