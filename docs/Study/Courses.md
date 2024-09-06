@@ -10,7 +10,7 @@
 
 ## 工程训练
 
-- [嘎嘎](../Study/CourseExperience/工程训练食用指南%205f50d7e9935d4e4eb2bc24f63d9526e7.md)
+- [嘎嘎](../Study/CourseExperience/工程训练食用指南.md)
 
 ## 机械制图及CAD基础
 
